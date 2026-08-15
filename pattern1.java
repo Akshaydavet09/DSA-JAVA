@@ -38,6 +38,6 @@ public class pattern1{
                 System.out.print(alphabet++ + " ");
             }
             System.out.println();
-        }
+        } 
     }
 }
